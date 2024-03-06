@@ -1,0 +1,31 @@
+.pol{
+  box-shadow:0px 5px 6px black;
+}
+
+footer{
+  background-color: white;
+  border-radius:25px;
+}
+
+.huj{
+  display: grid;
+  grid-gap:10px;
+  grid-template-columns:repeat(3,1fr);
+  
+}
+.huj ul{
+  list-style-type:none;
+  font-size:10px;
+}
+.huj ul li:nth-child(1){
+  font-size: 12px;
+}
+
+#nn{
+  font-size: 20px;
+  color:blue;
+}
+#hup{
+  text-align: center;
+  
+}
